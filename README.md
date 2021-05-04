@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gabrielbittencourt57@gmail.com**
 
-- ⚡ Fun fact **I'm the biggest small person 😅**
+- ⚡ Fun fact **the number one followed by 30 zeros, is called a nonillion 😅**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -19,7 +19,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en&layout=compact" alt="gabrlcj" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en&layout=compact" alt="gabrlcj" /></p>-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en" alt="gabrlcj" /></p>
 
