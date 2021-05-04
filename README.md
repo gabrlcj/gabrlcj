@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrlcj&label=Profile%20views&color=0e75b6&style=flat" alt="gabrlcj" /> </p>
 
-- 🌱 I’m currently learning **Everything, basically, I started studiyng this year.**
+- 🌱 I’m currently learning **everything, basically, I started studiyng this year.**
 
 - 📫 How to reach me **gabrielbittencourt57@gmail.com**
 
