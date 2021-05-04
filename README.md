@@ -9,8 +9,8 @@
 - 📫 How to reach me **gabrielbittencourt57@gmail.com**
 
 <div>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en" alt="gabrlcj" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en&layout=compact" alt="gabrlcj" />
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en" alt="gabrlcj" />
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en&layout=compact" alt="gabrlcj" />
 </div>
 
 <div style="display: inline_block"><br>
