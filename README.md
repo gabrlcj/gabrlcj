@@ -6,11 +6,12 @@
 
 - 🌱 I’m currently learning **Everything, basically, I started studiyng this year.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gabrlcj](https://github.com/gabrlcj)
-
 - 📫 How to reach me **gabrielbittencourt57@gmail.com**
 
-- ⚡ Fun fact **the number one followed by 30 zeros, is called a nonillion 😅**
+<div>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en" alt="gabrlcj" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en&layout=compact" alt="gabrlcj" />
+</div>
 
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> </a> 
@@ -18,10 +19,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a> 
 </p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en" alt="gabrlcj" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en&layout=compact" alt="gabrlcj" /></p>
 
 <p align="center">
 <a href="https://codepen.io/gabrlcj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gabrielB" height="70" width="30" /></a>
