@@ -14,6 +14,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <h2>Linguagens que aprendi até agora:</h2>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="40"/> 
   </a> 
@@ -28,8 +29,8 @@
   </a> 
 </div>
 
-##
 
+<h2>Redes Sociais:</h2>
 <div>
   <a href="https://codepen.io/gabrlcj" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gabrielB" height="70" width="30" />
