@@ -14,7 +14,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h2>Languages learned until now::</h2>
+  <h2>Languages learned until now:</h2>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="40"/> 
   </a> 
