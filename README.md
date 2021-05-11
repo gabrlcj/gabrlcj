@@ -39,6 +39,6 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="gabrielB" height="50" width="120" />
   </a>
   <a href="https://instagram.com/gabrlcj" target="blank">
-    <img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1620683298~hmac=05aec67bba0b317f71107db5b626ff99" alt="gabrielB" height="50" width="120" />
+    <img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="gabrielB" height="75" width="120" />
   </a>
 </div>
