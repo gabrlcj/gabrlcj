@@ -1,44 +1,51 @@
+<div align="center">
+    <img src="https://i.pinimg.com/originals/f1/a7/d1/f1a7d195f899f335f6444a3e19afcb54.gif" alt="GIF" title="GIF SKY" width="800" height="250"/>
+</div>
 <h1 align="center">Hello world 👋🏽, I'm Gabriel Bittencourt</h1>
-<h3 align="center">I have a passion for programming and tecnology! 🚀</h3>
+<h3 align="center">I have a passion for programming and tecnology! 🚀</h3><br>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrlcj&label=Profile%20views&color=0e75b6&style=flat" alt="gabrlcj" /> </p>
-
-- 🌱 I’m currently learning **everything, basically, I started studiyng this year.**
-
-- 📫 How to reach me **gabrielbittencourt57@gmail.com**
-
-<div>
-  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en" alt="gabrlcj" />
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en&layout=compact" alt="gabrlcj" />
+<div align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en" alt="gabrlcj" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en&layout=compact" alt="gabrlcj" />
 </div>
 
-<div style="display: flex"><br>
-  <h2>Languages learned until now:</h2>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="120" height="50"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="120" height="50"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="120" height="50"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="120" height="50"/> 
-  </a> 
+<h3>About me :</h3>
+
+- 👨🏽‍💻 I’m currently learning : **Everything, basically. I started studiyng this year but I'm focusing in frontend development**
+
+- ℹ️ Hobbies : **Games 🎮 | Music 🎧 | Exercise 🏃 | Animes 🏯**
+
+- 💬 Ask me about : **HTML and CSS, maybe a lil' bit of JavaScript too? 👀**
+
+- 📫 How to reach me : **gabrielbittencourt57@gmail.com**
+
+---
+
+<div>
+  <h3>Languages and tools I learned until now :</h3><br>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=SASS&color=%23CC6699&style=for-the-badge&logo=sass&logoColor=whitesmoke" alt="SASS"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> </a><br><br>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=FIGMA&color=%23552d84&style=for-the-badge&logo=figma&logoColor=whitesmoke" alt="FIGMA"></a>
 </div>
 
-
-<h2>Social media:</h2>
 <div>
-  <a href="https://codepen.io/gabrlcj" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="gabrielB" height="50" width="120" />
-  </a>
-  <a href="https://linkedin.com/in/gabriel-bittencourt-penteado" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="gabrielB" height="50" width="120" />
-  </a>
-  <a href="https://instagram.com/gabrlcj" target="blank">
-    <img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="gabrielB" height="75" width="120" />
-  </a>
+  <h3>Things I wanna learn in the future :</h3><br>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey" alt="REACT.JS"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=NODE.JS&color=%23339933&style=for-the-badge&logo=node.js&logoColor=whitesmoke" alt="NODE.JS"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=ELECTRON&color=%2347848F&style=for-the-badge&logo=electron&logoColor=whitesmoke" alt="ELECTRON"></a><br><br>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=FLUTTER&color=%2302569B&style=for-the-badge&logo=flutter&logoColor=whitesmoke" alt="FLUTTER"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MONGODB&color=%2347A248&style=for-the-badge&logo=mongodb&logoColor=whitesmoke" alt="MONGODB"></a>
+</div>
+
+___
+
+<div>
+  <h3>Social Media :</h3><br>
+    <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=darkblue&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
+    <a href="https://codepen.io/gabrlcj" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Codepen&color=%23000000&style=for-the-badge&logo=codepen&logoColor=whitesmoke" alt="Codepen"></a>
+    <a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
 </div>
