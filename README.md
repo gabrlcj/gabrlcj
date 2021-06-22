@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.pinimg.com/originals/f1/a7/d1/f1a7d195f899f335f6444a3e19afcb54.gif" alt="GIF" title="GIF SKY" width="800" height="250"/>
+    <img src="https://i.pinimg.com/originals/f1/a7/d1/f1a7d195f899f335f6444a3e19afcb54.gif" alt="GIF" title="GIF KUROKO" width="800" height="250"/>
 </div>
 <h1 align="center">Hello world 👋🏽, I'm Gabriel Bittencourt</h1>
 <h3 align="center">I have a passion for programming and tecnology! 🚀</h3><br>
