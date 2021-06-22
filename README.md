@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋🏽, I'm Gabriel Bittencourt</h1>
+<h1 align="center">Hello world 👋🏽, I'm Gabriel Bittencourt</h1>
 <h3 align="center">I have a passion for programming and tecnology! 🚀</h3>
 
 
