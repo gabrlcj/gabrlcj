@@ -5,8 +5,8 @@
 <h3 align="center">I have a passion for programming and tecnology! 🚀</h3><br>
 
 <div align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en" alt="gabrlcj" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=00ff84&locale=en&layout=compact" alt="gabrlcj" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=0059b3&text_color=1a1a1a&icon_color=cc4400&locale=en&hide_border=true&bg_color=DEG,99ccff,ff9966" alt="gabrlcj" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=0059b3&text_color=1a1a1a&icon_color=cc4400&layout=compact&hide_border=true&bg_color=DEG,99ccff,ff9966" alt="gabrlcj" />
 </div>
 
 <h3>About me :</h3>
