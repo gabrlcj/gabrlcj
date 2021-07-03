@@ -1,8 +1,9 @@
-<!-- <div align="center">
-    <img src="https://storyset.com/illustration/editing-body-text/amico/animate?share=23417" alt="GIF" title="GIF KUROKO" width="800" height="250"/>
+<!-- <div align="right">
+    <a href="https://storyset.com/people"><img src="Online document.gif" alt="GIF" title="Gif Storyset"></a>
 </div> -->
-<h1 align="center">Hello world 👋🏽, I'm Gabriel Bittencourt</h1>
-<h3 align="center">I have a passion for programming and tecnology! 🚀</h3><br>
+
+<h1 align="left">Hello world 👋🏽, I'm Gabriel Bittencourt</h1>
+<h3 align="left">I have a passion for programming and tecnology! 🚀</h3><br>
 
 <div align="center">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
