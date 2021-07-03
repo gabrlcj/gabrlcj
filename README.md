@@ -1,12 +1,12 @@
-<div align="center">
-    <img src="https://i.pinimg.com/originals/f1/a7/d1/f1a7d195f899f335f6444a3e19afcb54.gif" alt="GIF" title="GIF KUROKO" width="800" height="250"/>
-</div>
+<!-- <div align="center">
+    <img src="https://storyset.com/illustration/editing-body-text/amico/animate?share=23417" alt="GIF" title="GIF KUROKO" width="800" height="250"/>
+</div> -->
 <h1 align="center">Hello world 👋🏽, I'm Gabriel Bittencourt</h1>
 <h3 align="center">I have a passion for programming and tecnology! 🚀</h3><br>
 
 <div align="center">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=0059b3&text_color=1a1a1a&icon_color=cc4400&locale=en&hide_border=true&bg_color=DEG,99ccff,ff9966" alt="gabrlcj" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=0059b3&text_color=1a1a1a&icon_color=cc4400&layout=compact&hide_border=true&bg_color=DEG,99ccff,ff9966" alt="gabrlcj" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
 </div>
 
 <h3>About me :</h3>
