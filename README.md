@@ -1,25 +1,22 @@
-<!-- <div align="right">
-    <a href="https://storyset.com/people"><img src="Online document.gif" alt="GIF" title="Gif Storyset"></a>
-</div> -->
 
-<h1 align="left">Hello world 👋🏽, I'm Gabriel Bittencourt</h1>
-<h3 align="left">I have a passion for programming and tecnology! 🚀</h3><br>
+<a href="https://storyset.com/people"><img align="right" src="storyset.gif" alt="GIF" title="Gif Storyset"></a>
+    
+<h1 align="left">Hi 👋🏽, I'm Gabriel Bittencourt</h1>
+<h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
+
+<div align="left">
+    <h3>About me :</h3>
+        <p>• 👨🏽‍💻 I’m currently learning : <b>ReactJS and JavaScript. I started studiyng this year but I'm focusing in frontend development</b></p>
+        <p>• ℹ️ Hobbies : <b>Games 🎮 | Music 🎧 | Exercise 🏃 | Animes 🏯</b></p>
+        <p>• 💬 Ask me about : <b>HTML and CSS, maybe a lil' bit of JavaScript too? 👀</b></p>
+        <p>• 📫 How to reach me : <b>gabrielbittencourt57@gmail.com</b></p>
+</div><br>
 
 <div align="center">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
 </div>
-
-<h3>About me :</h3>
-
-- 👨🏽‍💻 I’m currently learning : **Everything, basically. I started studiyng this year but I'm focusing in frontend development**
-
-- ℹ️ Hobbies : **Games 🎮 | Music 🎧 | Exercise 🏃 | Animes 🏯**
-
-- 💬 Ask me about : **HTML and CSS, maybe a lil' bit of JavaScript too? 👀**
-
-- 📫 How to reach me : **gabrielbittencourt57@gmail.com**
-
+    
 ---
 
 <div>
