@@ -2,6 +2,9 @@
 <a href="https://storyset.com/people"><img align="right" src="storyset.gif" alt="GIF" title="Gif Storyset"></a>
     
 <h1 align="left">Hi 👋🏽, I'm Gabriel Bittencourt</h1>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gabrlcj.visitor-badge)
+
 <h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
 
 <div align="left">
