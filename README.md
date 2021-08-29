@@ -8,7 +8,7 @@
 <h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
 
 <div align="left">
-    <h3>About me :</h3>
+    <h3>About me:</h3>
         <p>• 👨🏽‍💻 I’m currently learning : <b>JavaScript and his frameworks. I started studiyng this year, focusing in frontend development!</b></p>
         <p>• ℹ️ Hobbies : <b>Games 🎮 | Music 🎧 | Exercise 🏃 | NBA 🏀</b></p>
         <p>• 💬 Ask me about : <b>HTML and CSS, maybe a lil' bit of JavaScript too</b></p>
