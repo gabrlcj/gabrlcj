@@ -23,7 +23,7 @@
 ---
 
 <div>
-  <h3>Languages and tools I'm learning until now :</h3><br>
+  <h3>Languages and tools I'm learning until now:</h3><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=SASS&color=%23CC6699&style=for-the-badge&logo=sass&logoColor=whitesmoke" alt="SASS"></a>
@@ -37,18 +37,19 @@
 </div>
 
 <div>
-  <h3>Things I wanna learn in the future :</h3><br>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=TailwindCSS&color=%2338B2AC&style=for-the-badge&logo=tailwindcss&logoColor=grey" alt="TailwindCSS"></a>
+  <h3>Things I wanna learn in the future:</h3><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=NODE.JS&color=%23339933&style=for-the-badge&logo=node.js&logoColor=whitesmoke" alt="NODE.JS"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=TailwindCSS&color=%2338B2AC&style=for-the-badge&logo=tailwindcss&logoColor=grey" alt="TailwindCSS"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=ELECTRON&color=%2347848F&style=for-the-badge&logo=electron&logoColor=whitesmoke" alt="ELECTRON"></a>
 <br><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MONGODB&color=%2347A248&style=for-the-badge&logo=mongodb&logoColor=whitesmoke" alt="MONGODB"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GRAPHQL&color=%23E10098&style=for-the-badge&logo=graphql" alt="GRAPHQL"></a>
 </div>
 
 ___
 
 <div>
-  <h3>Social Medias :</h3><br>
+  <h3>Social Medias:</h3><br>
     <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=darkblue&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
     <a href="https://codepen.io/gabrlcj" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Codepen&color=%23000000&style=for-the-badge&logo=codepen&logoColor=whitesmoke" alt="Codepen"></a>
     <a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
