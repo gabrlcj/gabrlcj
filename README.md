@@ -1,5 +1,5 @@
 
-<img align="right" src="ilustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
+<img align="right" src="Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
     
 <h1 align="left">Hi 👋🏽, I'm Gabriel Bittencourt</h1>
 
