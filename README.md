@@ -1,5 +1,5 @@
 
-<a href="https://storyset.com/people"><img align="right" src="storyset.gif" alt="GIF" title="Gif Storyset"></a>
+<img align="right" src="ilustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
     
 <h1 align="left">Hi 👋🏽, I'm Gabriel Bittencourt</h1>
 
