@@ -1,6 +1,6 @@
 <img align="center" src="https://i.pinimg.com/originals/58/2f/bb/582fbb4259b2ea8f182844686ba7f39c.gif" alt="Illustration" width=1000 height=250/>
 
-<img align="right" src="Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
+<img align="right" src="Illustration.svg" alt="Illustration" title="Illustration Storyset" width=400/>
     
 <h1 align="left">Hi 👋🏽, I'm Gabriel Bittencourt</h1>
 
