@@ -11,9 +11,10 @@
     <h3>👨🏽‍💻 About me:</h3>
     <p>• 📚 I’m currently studying at <b>Rocketseat</b> learning: <b>Front-end development with React.js, Next.js and Typescript, also 
 behavioral skills.</b></p>
-        <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃 | NBA 🏀</b></p>
-        <p>• 💬 Ask me about: <b>CSS/SASS I love to play around with styles 😁</b></p>
-        <p>• 📫 How to reach me: <b>gabrielbittencourt57@gmail.com</b></p>
+    <p>• ℹ️ Hobbies: <b>Play some Games 🎮 | Listen to Music 🎧 | Make Exercise 🏃 | Watch NBA 🏀 | Study programming 💻</b></p>
+    <p>• 💬 Ask me about: <b>CSS/SASS I love to play around with styles 😁</b></p>
+    <p>• 📫 How to reach me: <b>gabrielbittencourt57@gmail.com</b></p>
+    <p>• 👨🏽‍🚀 Here my personal portfolio <a href="https://gabriel-bittencourt.vercel.app/" target="_blank" rel="noreferrer noopener"><b>Click here!</b></a></p>
 </div><br>
 
 <div align="center">
