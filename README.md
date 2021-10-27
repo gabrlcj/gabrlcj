@@ -40,10 +40,6 @@
   <a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/badge/-Dev-121214?style=flat&logo=dev.to" alt="DEV"></a>
 
 ## [![Some of my favorite Pokémon's](https://fontmeme.com/permalink/211027/f7bd7759b71211f7f4f863478cb8b80e.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Pikachu](https://img.pokemondb.net/sprites/black-white/anim/shiny/pikachu.gif)
-| Name | GIF |
-|------|-----|
-| **Gengar** | ![Gengar](https://img.pokemondb.net/sprites/black-white/anim/shiny/gengar.gif) |
-| **Dragonite** | ![Dragonite](https://img.pokemondb.net/sprites/black-white/anim/normal/dragonite.gif) |
-| **Rayquaza** | ![Rayquaza](https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif) |
-| **Lucario** | ![Lucario](https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif) |
-| **Metagross** | ![Metagross](https://img.pokemondb.net/sprites/black-white/anim/normal/metagross.gif) |
+| ![Gengar](https://img.pokemondb.net/sprites/black-white/anim/shiny/gengar.gif) | ![Dragonite](https://img.pokemondb.net/sprites/black-white/anim/normal/dragonite.gif) | ![Lucario](https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif) | ![Metagross](https://img.pokemondb.net/sprites/black-white/anim/normal/metagross.gif) | ![Rayquaza](https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif) |
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| **Gengar** | **Dragonite** | **Lucario** | **Metagross** | **Rayquaza** |
