@@ -4,6 +4,8 @@
 ![Profile views](https://gpvc.arturio.dev/gabrlcj)
 
 ## [![About Me](https://fontmeme.com/permalink/211027/f15c79215e82179551a6d874ccb6abb0.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Victini](https://img.pokemondb.net/sprites/black-white/anim/normal/victini.gif)
+  - 👨🏽‍💻 Hi my name is **Gabriel** I'm looking for a job with front-end programming! 
+
   - 📚 I’m currently studying: **Front-end development with React.js, Next.js and Typescript, also behavioral skills.**
 
   - ℹ️ Hobbies: **Games 🎮 | Music 🎧 | Exercise 🏃 | Watch NBA 🏀**
