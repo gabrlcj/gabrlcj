@@ -3,7 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/gabrlcj)
 
-## About me ![Victini](https://img.pokemondb.net/sprites/black-white/anim/normal/victini.gif)
+## [![About Me](https://fontmeme.com/permalink/211027/f15c79215e82179551a6d874ccb6abb0.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Victini](https://img.pokemondb.net/sprites/black-white/anim/normal/victini.gif)
   - 📚 I’m currently studying: **Front-end development with React.js, Next.js and Typescript, also behavioral skills.**
 
   - ℹ️ Hobbies: **Games 🎮 | Music 🎧 | Exercise 🏃 | Watch NBA 🏀**
@@ -14,13 +14,13 @@
 
   - 👨🏽‍🚀 Here's my personal portfolio **[Click Here!](https://gabriel-bittencourt.vercel.app/)**
 
-## Github Analytics ![Charizard](https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif)
+## [![Github Analytics](https://fontmeme.com/permalink/211027/be6fb00c112c4f841169e0e77ea27a3a.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Charizard](https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif)
 <p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
 </p>
 
-## Tech Stack ![Ho-oh](https://img.pokemondb.net/sprites/black-white/anim/normal/ho-oh.gif)
+## [![Tech Stack](https://fontmeme.com/permalink/211027/50b50884f8ad587c57f541cd88670895.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Ho-oh](https://img.pokemondb.net/sprites/black-white/anim/normal/ho-oh.gif)
 ![HTML](https://img.shields.io/badge/-HTML5-121214?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-121214?style=flat&logo=css3&logoColor=1572B6)
 ![Javascript](https://img.shields.io/badge/-Javascript-121214?style=flat&logo=javascript)
@@ -32,12 +32,12 @@
 ![Github](https://img.shields.io/badge/-Github-121214?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VisualStudioCode-121214?style=flat&logo=visualstudiocode&logoColor=1572B9)
 
-## Socials ![Zekrom](https://img.pokemondb.net/sprites/black-white/anim/normal/zekrom.gif)
+## [![Socials](https://fontmeme.com/permalink/211027/79dbaf06524adc6d95cc6e4e17cbf777.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Zekrom](https://img.pokemondb.net/sprites/black-white/anim/normal/zekrom.gif)
   <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-121214?style=flat&logo=linkedin&logoColor=1572B6" alt="Linkedin"></a>
   <a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-121214?style=flat&logo=instagram" alt="Instagram"></a>
   <a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/badge/-Dev-121214?style=flat&logo=dev.to" alt="DEV"></a>
 
-## Some of my Favorite Pokémon's ![Pikachu](https://img.pokemondb.net/sprites/black-white/anim/shiny/pikachu.gif)
+## [![Some of my favorite Pokémon's](https://fontmeme.com/permalink/211027/f7bd7759b71211f7f4f863478cb8b80e.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Pikachu](https://img.pokemondb.net/sprites/black-white/anim/shiny/pikachu.gif)
 | Name | GIF |
 |------|-----|
 | **Gengar** | ![Gengar](https://img.pokemondb.net/sprites/black-white/anim/shiny/gengar.gif) |
