@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/gabrlcj)
 
 ## [![About Me](https://fontmeme.com/permalink/211027/f15c79215e82179551a6d874ccb6abb0.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Victini](https://img.pokemondb.net/sprites/black-white/anim/normal/victini.gif)
-  - 👨🏽‍💻 Hi my name is **Gabriel** I'm looking for a job with front-end programming! 
+  - 👨🏽‍💻 Hi my name is **Gabriel** I'm looking for a job with front-end programming!
 
   - 📚 I’m currently studying: **Front-end development with React.js, Next.js and Typescript, also behavioral skills.**
 
@@ -38,8 +38,3 @@
   <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-121214?style=flat&logo=linkedin&logoColor=1572B6" alt="Linkedin"></a>
   <a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-121214?style=flat&logo=instagram" alt="Instagram"></a>
   <a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/badge/-Dev-121214?style=flat&logo=dev.to" alt="DEV"></a>
-
-## [![Some of my favorite Pokémon's](https://fontmeme.com/permalink/211027/f7bd7759b71211f7f4f863478cb8b80e.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Pikachu](https://img.pokemondb.net/sprites/black-white/anim/shiny/pikachu.gif)
-| ![Gengar](https://img.pokemondb.net/sprites/black-white/anim/shiny/gengar.gif) | ![Dragonite](https://img.pokemondb.net/sprites/black-white/anim/normal/dragonite.gif) | ![Lucario](https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif) | ![Metagross](https://img.pokemondb.net/sprites/black-white/anim/normal/metagross.gif) | ![Rayquaza](https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif) |
-| :----------: | :----------: | :----------: | :----------: | :----------: |
-| **Gengar** | **Dragonite** | **Lucario** | **Metagross** | **Rayquaza** |
