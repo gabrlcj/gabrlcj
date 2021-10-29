@@ -29,6 +29,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-121214?style=flat&logo=sass)
 ![React.js](https://img.shields.io/badge/-React-121214?style=flat&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-121214?style=flat&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next-121214?style=flat&logo=next.js)
 <br /><br />
 ![Git](https://img.shields.io/badge/-Git-121214?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-121214?style=flat&logo=github)
@@ -38,3 +39,19 @@
   <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-121214?style=flat&logo=linkedin&logoColor=1572B6" alt="Linkedin"></a>
   <a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-121214?style=flat&logo=instagram" alt="Instagram"></a>
   <a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/badge/-Dev-121214?style=flat&logo=dev.to" alt="DEV"></a>
+
+## [![Favorite Repo's](https://fontmeme.com/permalink/211029/ca7c57ba244e74616ef9c50e90047114.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Reshiram](https://img.pokemondb.net/sprites/black-white/anim/normal/reshiram.gif)
+<p align="center">
+  <a href="https://github.com/gabrlcj/Portfolio">
+  <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrlcj&repo=portfolio&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://github.com/gabrlcj/CountriesPopulation">
+  <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrlcj&repo=countriespopulations&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
+  </a>
+  <span>&nbsp;</span>
+  <br/>
+  <a href="https://github.com/gabrlcj/calculator-app">
+  <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrlcj&repo=calculator-app&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
+  </a>
+</p>
