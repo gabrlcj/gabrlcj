@@ -46,7 +46,7 @@
   <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrlcj&repo=portfolio&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://github.com/gabrlcj/CountriesPopulation">
+  <a href="https://github.com/gabrlcj/CountriesPopulations">
   <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrlcj&repo=countriespopulations&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
   </a>
   <span>&nbsp;</span>
