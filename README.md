@@ -36,22 +36,22 @@
 ![VSCode](https://img.shields.io/badge/-VisualStudioCode-121214?style=flat&logo=visualstudiocode&logoColor=1572B9)
 
 ## [![Socials](https://fontmeme.com/permalink/211027/79dbaf06524adc6d95cc6e4e17cbf777.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Zekrom](https://img.pokemondb.net/sprites/black-white/anim/normal/zekrom.gif)
-  <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-121214?style=flat&logo=linkedin&logoColor=1572B6" alt="Linkedin"></a>
-  <a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-121214?style=flat&logo=instagram" alt="Instagram"></a>
-  <a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/badge/-Dev-121214?style=flat&logo=dev.to" alt="DEV"></a>
+<a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-121214?style=flat&logo=linkedin&logoColor=1572B6" alt="Linkedin"></a>
+<a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-121214?style=flat&logo=instagram" alt="Instagram"></a>
+<a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/badge/-Dev-121214?style=flat&logo=dev.to" alt="DEV"></a>
 
 ## [![Favorite Repo's](https://fontmeme.com/permalink/211029/ca7c57ba244e74616ef9c50e90047114.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Darkrai](https://img.pokemondb.net/sprites/black-white/anim/normal/darkrai.gif)
 <p align="center">
   <a href="https://github.com/gabrlcj/Portfolio">
-  <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrlcj&repo=portfolio&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrlcj&repo=portfolio&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
   </a>
   <span>&nbsp;</span>
   <a href="https://github.com/gabrlcj/CountriesPopulations">
-  <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrlcj&repo=countriespopulations&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrlcj&repo=countriespopulations&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
   </a>
   <span>&nbsp;</span>
   <br/>
   <a href="https://github.com/gabrlcj/calculator-app">
-  <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrlcj&repo=calculator-app&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrlcj&repo=calculator-app&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
   </a>
 </p>
