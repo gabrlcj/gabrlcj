@@ -54,4 +54,8 @@
   <a href="https://github.com/gabrlcj/calculator-app">
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrlcj&repo=calculator-app&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
   </a>
+  <span>&nbsp;</span>
+  <a href="https://github.com/gabrlcj/PokemonBank">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrlcj&repo=pokemonbank&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
+  </a>
 </p>
