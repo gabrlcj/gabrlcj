@@ -4,9 +4,9 @@
 ![Profile views](https://gpvc.arturio.dev/gabrlcj)
 
 ## [![About Me](https://fontmeme.com/permalink/211027/f15c79215e82179551a6d874ccb6abb0.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Victini](https://img.pokemondb.net/sprites/black-white/anim/normal/victini.gif)
-  - 👨🏽‍💻 Hi my name is **Gabriel** I'm looking for a job with front-end programming!
+  - 👨🏽‍💻 Hi my name is **Gabriel** and I'm a **Fullstack Developer, working on Sisand!**
 
-  - 📚 I’m currently studying: **Front-end development with React.js, Next.js and Typescript, also behavioral skills.**
+  - 📚 I’m currently studying: **Front-end and Back-end with Angular, Nest.js, Node.js and Typescript.**
 
   - ℹ️ Hobbies: **Games 🎮 | Music 🎧 | Exercise 🏃 | Watch NBA 🏀**
 
@@ -28,8 +28,12 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-121214?style=flat&logo=javascript)
 ![SASS](https://img.shields.io/badge/-SASS-121214?style=flat&logo=sass)
 ![React.js](https://img.shields.io/badge/-React-121214?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-121214?style=flat&logo=angular&logoColor=DD0031)
 ![Typescript](https://img.shields.io/badge/-Typescript-121214?style=flat&logo=typescript)
 ![Next.js](https://img.shields.io/badge/-Next-121214?style=flat&logo=next.js)
+<br /><br />
+![Node.js](https://img.shields.io/badge/-Nodejs-121214?style=flat&logo=node.js)
+![Nest.js](https://img.shields.io/badge/-Nestjs-121214?style=flat&logo=nestjs&logoColor=E0234E)
 <br /><br />
 ![Git](https://img.shields.io/badge/-Git-121214?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-121214?style=flat&logo=github)
