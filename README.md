@@ -1,14 +1,12 @@
 <img align="center" src="https://i.pinimg.com/originals/58/2f/bb/582fbb4259b2ea8f182844686ba7f39c.gif" alt="Illustration" width=1000 height=150/>
 <a href="https://fontmeme.com/pt/fonte-de-pokemon/"><img src="https://fontmeme.com/permalink/211027/ae01e0ef0c30579981eefc2dca9c4cbb.png" alt="fonte-de-pokemon" border="0"></a>
 
-![Profile views](https://gpvc.arturio.dev/gabrlcj)
-
 ## [![About Me](https://fontmeme.com/permalink/211027/f15c79215e82179551a6d874ccb6abb0.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Victini](https://img.pokemondb.net/sprites/black-white/anim/normal/victini.gif)
   - 👨🏽‍💻 Hi my name is **Gabriel** and I'm a **Fullstack Developer, working on Muvstok!**
 
   - 📚 I’m currently studying: **Front-end and Back-end with Angular, Nest.js, Node.js and Typescript.**
 
-  - ℹ️ Hobbies: **Games 🎮 | Music 🎧 | Exercise 🏃 | Watch NBA 🏀**
+  - ℹ️ Hobbies: **Games 🎮 | Watch series and movies 🎥 | Music 🎧 | Exercise 🏃 | Watch NBA 🏀**
 
   - 📫 How to reach me: **gabrielbittencourt57@gmail.com**
 
