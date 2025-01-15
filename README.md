@@ -21,25 +21,25 @@
 </p>
 
 ## [![Tech Stack](https://fontmeme.com/permalink/211027/50b50884f8ad587c57f541cd88670895.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Ho-oh](https://img.pokemondb.net/sprites/black-white/anim/normal/ho-oh.gif)
-![HTML](https://img.shields.io/badge/-HTML5-121214?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-121214?style=flat&logo=css3&logoColor=1572B6)
 ![Javascript](https://img.shields.io/badge/-Javascript-121214?style=flat&logo=javascript)
-![SASS](https://img.shields.io/badge/-SASS-121214?style=flat&logo=sass)
 ![React.js](https://img.shields.io/badge/-React-121214?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-121214?style=flat&logo=angular&logoColor=DD0031)
 ![Typescript](https://img.shields.io/badge/-Typescript-121214?style=flat&logo=typescript)
 ![Next.js](https://img.shields.io/badge/-Next-121214?style=flat&logo=next.js)
 <br /><br />
 ![Node.js](https://img.shields.io/badge/-Nodejs-121214?style=flat&logo=node.js)
+![Fastify](https://img.shields.io/badge/-Fastify-121214?style=flat&logo=fastify)
 ![Nest.js](https://img.shields.io/badge/-Nestjs-121214?style=flat&logo=nestjs&logoColor=E0234E)
+![PostgreSQL](https://img.shields.io/badge/-PostegreSQL-121214?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-121214?style=flat&logo=docker)
 <br /><br />
 ![Git](https://img.shields.io/badge/-Git-121214?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-121214?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/-VisualStudioCode-121214?style=flat&logo=visualstudiocode&logoColor=1572B9)
+![Jira](https://img.shields.io/badge/-Jira-121214?style=flat&logo=jira)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-121214?style=flat&logo=bitbucket)
 
 ## [![Socials](https://fontmeme.com/permalink/211027/79dbaf06524adc6d95cc6e4e17cbf777.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Zekrom](https://img.pokemondb.net/sprites/black-white/anim/normal/zekrom.gif)
 <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-121214?style=flat&logo=linkedin&logoColor=1572B6" alt="Linkedin"></a>
-<a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-121214?style=flat&logo=instagram" alt="Instagram"></a>
 <a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/badge/-Dev-121214?style=flat&logo=dev.to" alt="DEV"></a>
 
 ## [![Favorite Repo's](https://fontmeme.com/permalink/211029/ca7c57ba244e74616ef9c50e90047114.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Darkrai](https://img.pokemondb.net/sprites/black-white/anim/normal/darkrai.gif)
